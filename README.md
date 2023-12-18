@@ -1,4 +1,6 @@
 <a class='anchor' id='top'></a>
+<p align = "center"><img src = "https://github.com/Uberhunde88/horseRacingWinnerPredictionKRA/tree/main/src/horseRacingPressPhoto.png" width = "1200"></p>
+
 # horseRacingWinnerPredictionKRA
 
 ---
