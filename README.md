@@ -12,7 +12,7 @@
 [4. Code structure](https://github.com/Uberhunde88/horseRacingWinnerPredictionKRA#4-Code-Structure)  
 [5. Results and evaluation](https://github.com/Uberhunde88/horseRacingWinnerPredictionKRA#5-Results-and-Evaluation)  
 [6. Future work](https://github.com/Uberhunde88/horseRacingWinnerPredictionKRA#6-Future-Work)  
-[7. Acknowledgments/References](https://github.com/Uberhunde88/horseRacingWinnerPredictionKRA#7-Acknowledgments/References)  
+[7. Acknowledgments/References](https://github.com/Uberhunde88/horseRacingWinnerPredictionKRA#7-Acknowledgments%2FReferences)  
 [8. License](https://github.com/Uberhunde88/horseRacingWinnerPredictionKRA#8-License)  
 
 ---
